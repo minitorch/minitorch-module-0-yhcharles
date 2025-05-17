@@ -33,6 +33,8 @@ from typing import Callable, Iterable
 
 
 # TODO: Implement for Task 0.1.
+def mul(x: float, y: float) -> float:
+    return x * y
 
 
 # ## Task 0.3
